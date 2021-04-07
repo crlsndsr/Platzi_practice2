@@ -1,3 +1,4 @@
 Hola este es una prueba para git!
 Es primera vez que lo uso y aquí va la 2da para el 2 commit
 Soy Carlos y me gusta programar!
+Tambien soy Diseñador gráfico y Bailarín y profesor de Tango
