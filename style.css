@@ -8,9 +8,17 @@ html {
     font-size: 62.5%;
 }
 
+nav {
+    margin: 2rem;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+    color: aliceblue;
+}
 main {
     margin-top: 4rem;
-   font-family: 'Montserrat', sans-serif;;
+   font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
