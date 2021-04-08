@@ -1,9 +1,27 @@
-body {
-    text-align: center;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+html {
+    font-size: 62.5%;
+}
+
+main {
+    margin-top: 4rem;
+   font-family: 'Montserrat', sans-serif;;
+}
+
 h1 {
+    text-align: left;
     color: blueviolet;
+    margin-left: 2rem;
 }
 p {
+    margin-top: 2rem;
+    margin-left: 5rem;
+    font-size: 1.6rem;
+    text-align: Left;
     color: gray;
 }
